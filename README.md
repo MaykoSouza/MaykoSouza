@@ -2,8 +2,8 @@
 
 
 - 🌱 Cursando Análise e Desenvovimento de Sistemas;
-- 💻 Estudando javascript e SQL 
-- 🚀 desenvolvendo layouts com CSS e HTML
+- 💻 Estudando shell-Script,Linux e C
+- 🚀 desenvolvi alguns layouts com CSS e HTML
 - ⚡ buscando sempre evoluir ...
 
 
