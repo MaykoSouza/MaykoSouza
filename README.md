@@ -1,7 +1,7 @@
 ### OLÁ! Me chamo Mayko  👋
 
 
-<h1>🌱 Cursando Análise e Desenvovimento de Sistemas;</h1>
+-🌱 Cursando Análise e Desenvovimento de Sistemas;
 - 💻 Estudando shell-Script, Linux e javascript
 - 🚀 desenvolvi alguns layouts com CSS e HTML
 - ⚡ buscando sempre evoluir ...
