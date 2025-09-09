@@ -1,10 +1,9 @@
 ### OLÁ! Me chamo Mayko  👋
 
 
-- 🌱 Cursando Análise e Desenvovimento de Sistemas;
-- 💻 Estudando shell-Script, Linux e javascript
-- 🚀 desenvolvi alguns layouts com CSS e HTML
-- ⚡ buscando sempre evoluir ...
+- Seja bem vindo ao meu perfil 
+- 💻 Estudando shell-Script, Linux e javascript, computação em nuvem ...
+- ⚡ buscando sempre evoluir 
 
 
 <div align="center">
@@ -22,7 +21,8 @@
  <img align="center" alt="Mayko-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="center" alt="Mayko-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
- <img align="center" alt="mayko-Js" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="GCP" height="30" width="40" src= "https://images.icon-icons.com/2642/PNG/512/google_cloud_logo_icon_159333.png">
+<img align="center" alt="mayko-Js" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <br>
   <br> 
    
