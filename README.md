@@ -24,6 +24,8 @@
  <img align="center" alt="GCP" height="40" width="40" src= "https://images.icon-icons.com/2642/PNG/512/google_cloud_logo_icon_159333.png">
 <img align="center" alt="mayko-Js" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="mayko-Js" height="40" width="40" src= "https://images.icon-icons.com/2699/PNG/512/docker_tile_logo_icon_168248.png">
+<img align="center" alt="mayko-Js" height="40" width="40" src= "https://icon-icons.com/icon/zabbix-logo/167937">
+
   <br>
   <br> 
    
