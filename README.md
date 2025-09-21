@@ -22,7 +22,7 @@
  <img align="center" alt="Mayko-VSCODE" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img align="center" alt="linux" height="80" width="80" src="https://cdn.dribbble.com/userupload/20065122/file/original-0560360879a53ca7342466ec8dd470f5.png?resize=752x&vertical=center">
  <img align="center" alt="GCP" height="80" width="80" src= "https://images.icon-icons.com/2642/PNG/512/google_cloud_logo_icon_159333.png">
-<img align="center" alt="mayko-Js" height="60" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="mayko-Js" height="80" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Docker" height="80" width="80" src= "https://images.icon-icons.com/2699/PNG/512/docker_tile_logo_icon_168248.png">
 <img align="center" alt="Zabbix" height="80" width="80" src= "https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png">
 
