@@ -23,7 +23,7 @@
  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  <img align="center" alt="GCP" height="40" width="40" src= "https://images.icon-icons.com/2642/PNG/512/google_cloud_logo_icon_159333.png">
 <img align="center" alt="mayko-Js" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="mayko-Js" height="30" width="40" src= "[https://icon2.cleanpng.com/20180802/apk/060b63ade17983b778877ddd17068696.webp](https://images.icon-icons.com/2699/PNG/512/docker_tile_logo_icon_168248.png)">
+<img align="center" alt="mayko-Js" height="40" width="40" src= "https://icon2.cleanpng.com/20180802/apk/060b63ade17983b778877ddd17068696.webp">
   <br>
   <br> 
    
