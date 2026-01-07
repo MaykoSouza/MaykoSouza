@@ -1,3 +1,5 @@
+<img align="center" alt="Mayko-HTML" height="200px" width="1400px" src="./assets/capa.png">
+
 # Eai! Seja Bem-Vindo ☁️ 🚀
 
 Sou um profissional de **DevOps** focado em garantir um abiente produtivo e escalável.
