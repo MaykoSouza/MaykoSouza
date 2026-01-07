@@ -1,17 +1,46 @@
-### OLÁ! Me chamo Mayko  👋
+# Eai! Seja Bem-Vindo ☁️ 🚀
 
+Sou um profissional de **DevOps** focado em garantir um abiente produtivo e escalável.
+Atualmente, concentro meus esforços no ecossistema **Google Cloud Platform (GCP)** e estou aprimorando minhas habilidades em desenvolvimento backend com **Go**.
 
-- Seja bem vindo ao meu perfil 
-- 💻 Estudando shell-Script, Linux e javascript, computação em nuvem ...
-- ⚡ buscando sempre evoluir 
+---
 
+## 🛠️ Ferramentas
 
-<div align="center">
-  <a href="https://github.com/MaykoSouza">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MaykoSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaykoSouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
+### ☁️ Cloud & Infraestrutura
+* **Google Cloud Platform (GCP):** Cloud Run, Cloud Functions, GKE, VPC, Cloud SQL, BigQuery.
+* **Networking & Segurança:** Cloudflare (Tunnels/Zero Trust), Gerenciamento de VPC/NAT, NGINX.
+* **Monitoramento:** Zabbix (Dockerizado), Google Cloud Logging, Looker Studio.
+
+### 🔄 CI/CD & Automação
+* **GitHub Actions:** Criação de pipelines complexos, Self-hosted Runners, Security Scanning.
+* **Containerização:** Docker, Docker Compose.
+
+### 💻 Desenvolvimento 
+* **Linguagens:** Go (Foco atual de estudo), Bash/Shell.
+* **Interesses:** Design Patterns (Factory Method), Web Scraping, Deep Learning & NLP.
+
+---
+
+## 🔭 No que estou trabalhando / Projetos Recentes
+
+Aqui estão alguns desafios técnicos e arquiteturas nas quais tenho atuado (até o momento do último commit nesse README, prometo que vou tentar deixar atualizado kkkk 😅) :
+
+* **🛡️ Gestão de Vulnerabilidades Automatizada:** Pipeline que extrai dados de segurança da API do GitHub, ingere no **BigQuery** e gera dashboards executivos no **Looker Studio** para monitoramento de múltiplos repositórios.
+* **🔐 Arquitetura Zero Trust:** Implementação segura de servidor **Tactical RMM** no GCP utilizando Cloudflare Tunnel, eliminando exposição direta de portas.
+
+* **💰 FinOps & Otimização:** Estratégias para redução de custos focados no ambiente em nuvem GCP
+
+---
+
+## 🌱 O que estou aprendendo
+
+* **Go (Golang):** Construindo ferramentas CLI (como to-do lists) para solidificar conceitos de estruturas de dados e concorrência.
+
+## ⚡ Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaykoSouza&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaykoSouza&layout=compact&theme=gotham)
 
   
  <div align="center" style="display: inline_block"><br>
@@ -20,12 +49,12 @@
  <img align="center" alt="Mayko-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Mayko-GIT" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="center" alt="Mayko-VSCODE" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- <img align="center" alt="linux" height="80" width="80" src="https://cdn.dribbble.com/userupload/20065122/file/original-0560360879a53ca7342466ec8dd470f5.png?resize=752x&vertical=center">
+ <img align="center" alt="linux" height="80" width="80" src="https://mlohrktvfr9b.i.optimole.com/cb:_JOh.18064/w:auto/h:auto/q:75/g:sm/f:best/https://nerdstickers.com.br/wp-content/uploads/2022/10/products-07-Tux-Linux-01.png">
  <img align="center" alt="GCP" height="80" width="80" src= "https://images.icon-icons.com/2642/PNG/512/google_cloud_logo_icon_159333.png">
 <img align="center" alt="mayko-Js" height="80" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Docker" height="80" width="80" src= "https://images.icon-icons.com/2699/PNG/512/docker_tile_logo_icon_168248.png">
 <img align="center" alt="Zabbix" height="80" width="80" src= "https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png">
-
+<img align="center" alt="go" height="80" width="80" src= "https://sempreupdate.com.br/wp-content/uploads/2020/02/O6AczwfV_400x400.png">
   <br>
   <br> 
    
