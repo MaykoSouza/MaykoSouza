@@ -36,25 +36,19 @@ Aqui estão alguns desafios técnicos e arquiteturas nas quais tenho atuado (at�
 ## 🌱 O que estou aprendendo
 
 * **Go (Golang):** Construindo ferramentas CLI (como to-do lists) para solidificar conceitos de estruturas de dados e concorrência.
-
-## ⚡ Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaykoSouza&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaykoSouza&layout=compact&theme=gotham)
-
   
  <div align="center" style="display: inline_block"><br>
  
- <img align="center" alt="Mayko-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Mayko-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Mayko-GIT" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align="center" alt="Mayko-VSCODE" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- <img align="center" alt="linux" height="80" width="80" src="https://mlohrktvfr9b.i.optimole.com/cb:_JOh.18064/w:auto/h:auto/q:75/g:sm/f:best/https://nerdstickers.com.br/wp-content/uploads/2022/10/products-07-Tux-Linux-01.png">
- <img align="center" alt="GCP" height="80" width="80" src= "https://images.icon-icons.com/2642/PNG/512/google_cloud_logo_icon_159333.png">
-<img align="center" alt="mayko-Js" height="80" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Mayko-HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Mayko-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Mayko-GIT" height="80" width="80 " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="Docker" height="80" width="80" src= "https://images.icon-icons.com/2699/PNG/512/docker_tile_logo_icon_168248.png">
+ <img align="center" alt="GCP" height="80" width="80" src= "https://upload.wikimedia.org/wikipedia/commons/c/ce/Google_cloud.png">
+<img align="center" alt="mayko-Js" height="80" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="linux" height="80" width="80" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1200/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo.jpg">
 <img align="center" alt="Zabbix" height="80" width="80" src= "https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png">
 <img align="center" alt="go" height="80" width="80" src= "https://sempreupdate.com.br/wp-content/uploads/2020/02/O6AczwfV_400x400.png">
+<img align="center" alt="go" height="80" width="80" src= "https://cdn.sanity.io/images/cz3spuap/production/ab9c5803b81158f7cc39c9d5e973a41391543bc7-512x512.png">
   <br>
   <br> 
    
