@@ -1,4 +1,4 @@
-<img align="center" alt="Mayko-HTML" height="00px" width="1400px" src="./assets/capa_gif.gif">
+<img align="center" alt="Mayko-HTML" height="400px" width="1400px" src="./assets/dog_samurai.gif">
 
 # Eai! Seja Bem-Vindo ☁️ 🚀
 
