@@ -1,4 +1,4 @@
-<img align="center" alt="Mayko-HTML" height="200px" width="1400px" src="./assets/capa_gif.gif">
+<img align="center" alt="Mayko-HTML" height="400px" width="1400px" src="./assets/capa_gif.gif">
 
 # Eai! Seja Bem-Vindo ☁️ 🚀
 
@@ -22,6 +22,17 @@ Atualmente, concentro meus esforços no ecossistema **Google Cloud Platform (GCP
 * **Linguagens:** Go (Foco atual de estudo), Bash/Shell.
 * **Interesses:** Design Patterns (Factory Method), Web Scraping, Deep Learning & NLP.
 
+ <img align="center" alt="Mayko-HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Mayko-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Mayko-GIT" height="80" width="80 " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="Docker" height="80" width="80" src= "https://images.icon-icons.com/2699/PNG/512/docker_tile_logo_icon_168248.png">
+ <img align="center" alt="GCP" height="80" width="80" src= "https://upload.wikimedia.org/wikipedia/commons/c/ce/Google_cloud.png">
+<img align="center" alt="mayko-Js" height="80" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="linux" height="80" width="80" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1200/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo.jpg">
+<img align="center" alt="Zabbix" height="80" width="80" src= "https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png">
+<img align="center" alt="go" height="80" width="80" src= "https://sempreupdate.com.br/wp-content/uploads/2020/02/O6AczwfV_400x400.png">
+<img align="center" alt="go" height="80" width="80" src= "https://cdn.sanity.io/images/cz3spuap/production/ab9c5803b81158f7cc39c9d5e973a41391543bc7-512x512.png">
+  <br>
 ---
 
 ## 🔭 No que estou trabalhando / Projetos Recentes
