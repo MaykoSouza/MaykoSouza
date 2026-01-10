@@ -1,26 +1,9 @@
 <img align="center" alt="Mayko-HTML" height="400px" width="1400px" src="./assets/dog_samurai.gif">
 
-# Eai! Seja Bem-Vindo ☁️ 🚀
+# Eai! Seja Bem-Vindo 
 
 Sou um profissional de **DevOps** focado em garantir um abiente produtivo e escalável.
 Atualmente, concentro meus esforços no ecossistema **Google Cloud Platform (GCP)** e estou aprimorando minhas habilidades em desenvolvimento backend com **Go**.
-
----
-
-## 🛠️ Ferramentas
-
-### ☁️ Cloud & Infraestrutura
-* **Google Cloud Platform (GCP):** Cloud Run, Cloud Functions, GKE, VPC, Cloud SQL, BigQuery.
-* **Networking & Segurança:** Cloudflare (Tunnels/Zero Trust), Gerenciamento de VPC/NAT, NGINX.
-* **Monitoramento:** Zabbix (Dockerizado), Google Cloud Logging, Looker Studio.
-
-### 🔄 CI/CD & Automação
-* **GitHub Actions:** Criação de pipelines complexos, Self-hosted Runners, Security Scanning.
-* **Containerização:** Docker, Docker Compose.
-
-### 💻 Desenvolvimento 
-* **Linguagens:** Go (Foco atual de estudo), Bash/Shell.
-* **Interesses:** Design Patterns (Factory Method), Web Scraping, Deep Learning & NLP.
 
  <div align="left" style="display: inline_block"><br>
  
@@ -36,17 +19,6 @@ Atualmente, concentro meus esforços no ecossistema **Google Cloud Platform (GCP
 <img align="center" alt="go" height="80" width="80" src= "https://cdn.sanity.io/images/cz3spuap/production/ab9c5803b81158f7cc39c9d5e973a41391543bc7-512x512.png">
   <br>
   <br>
-
-## 🔭 No que estou trabalhando / Projetos Recentes
-
-Aqui estão alguns desafios técnicos e arquiteturas nas quais tenho atuado (até o momento do último commit nesse README, prometo que vou tentar deixar atualizado kkkk 😅) :
-
-* **🛡️ Gestão de Vulnerabilidades Automatizada:** Pipeline que extrai dados de segurança da API do GitHub, ingere no **BigQuery** e gera dashboards executivos no **Looker Studio** para monitoramento de múltiplos repositórios.
-* **🔐 Arquitetura Zero Trust:** Implementação segura de servidor **Tactical RMM** no GCP utilizando Cloudflare Tunnel, eliminando exposição direta de portas.
-
-* **💰 FinOps & Otimização:** Estratégias para redução de custos focados no ambiente em nuvem GCP
-
----
 
 ## 🌱 O que estou aprendendo
 
