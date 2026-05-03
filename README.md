@@ -5,20 +5,21 @@
 Sou um profissional de **DevOps** focado em garantir um abiente produtivo e escalável.
 Atualmente, concentro meus esforços no ecossistema **Google Cloud Platform (GCP)** e estou aprimorando minhas habilidades em desenvolvimento backend com **Go**.
 
- <div align="left" style="display: inline_block"><br>
- 
- <img align="center" alt="Mayko-HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Mayko-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Mayko-GIT" height="80" width="80 " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" alt="Docker" height="80" width="80" src= "https://images.icon-icons.com/2699/PNG/512/docker_tile_logo_icon_168248.png">
- <img align="center" alt="GCP" height="80" width="80" src= "https://upload.wikimedia.org/wikipedia/commons/c/ce/Google_cloud.png">
-<img align="center" alt="mayko-Js" height="80" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="linux" height="80" width="80" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1200/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo.jpg">
-<img align="center" alt="Zabbix" height="80" width="80" src= "https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png">
-<img align="center" alt="go" height="80" width="80" src= "https://sempreupdate.com.br/wp-content/uploads/2020/02/O6AczwfV_400x400.png">
-<img align="center" alt="go" height="80" width="80" src= "https://cdn.sanity.io/images/cz3spuap/production/ab9c5803b81158f7cc39c9d5e973a41391543bc7-512x512.png">
-  <br>
-  <br>
+<table align="center">
+<tr>
+ <td><img alt="Mayko-HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+ <td><img alt="Mayko-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+ <td><img alt="Mayko-GIT" height="80" width="80 " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></td>
+ <td><img alt="Docker" height="80" width="80" src= "https://images.icon-icons.com/2699/PNG/512/docker_tile_logo_icon_168248.png"></td>
+ <td><img alt="GCP" height="80" width="80" src= "https://upload.wikimedia.org/wikipedia/commons/c/ce/Google_cloud.png"></td>
+ <td><img alt="mayko-Js" height="80" width="80" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
+ <td><img alt="linux" height="80" width="80" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1200/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-shadow-tal-revivo.jpg"></td>
+ <td><img alt="Zabbix" height="80" width="80" src= "https://images.icon-icons.com/2699/PNG/512/zabbix_logo_icon_167937.png"></td>
+ <td><img alt="go" height="80" width="80" src= "https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png"></td>
+ <td><img alt="cloud-flare" height="80" width="80" src= "https://cdn.sanity.io/images/cz3spuap/production/ab9c5803b81158f7cc39c9d5e973a41391543bc7-512x512.png"></td>
+ </tr>
+</table>
+
 
 ## 🌱 O que estou aprendendo
 
@@ -26,7 +27,7 @@ Atualmente, concentro meus esforços no ecossistema **Google Cloud Platform (GCP
   
  <div align="left" style="display: inline_block"><br>
  
-<img align="center" alt="go" height="80" width="80" src= "https://sempreupdate.com.br/wp-content/uploads/2020/02/O6AczwfV_400x400.png">
+<img align="center" alt="go" height="80" width="80" src= "https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png">
 
   <br>
   <br> 
