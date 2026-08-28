@@ -2,8 +2,18 @@
 
 # Eai! Seja Bem-Vindo 
 
-Sou um profissional de **DevOps** focado em garantir um abiente produtivo e escalável.
-Atualmente, concentro meus esforços no ecossistema **Google Cloud Platform (GCP)** e estou aprimorando minhas habilidades em desenvolvimento backend com **Go**.
+Atualmente trabalho como **DevOps** focado em garantir ambientes produtivos e escaláveis.
+Hoje, concentro meus esforços no ecossistema **Google Cloud Platform (GCP)** e estou aprimorando minhas habilidades em desenvolvimento backend com **Go**.
+
+## Minhas principais atividades 
+Desenvolvimento e manutenção de pipelines de Integração Contínua e Entrega Contínua (CI/CD) utilizando GitHub Actions.
+Gestão e boas práticas de FinOps
+Experiência com os principais serviços da Google Cloud Platform (GCP), incluindo a implantação e gerenciamento de aplicações serverless via Cloud Run.
+Experiência na construção, execução e gestão de containers com Docker, incluindo a orquestração de ambientes multi-serviços via Docker Compose.
+Mitigação e correção de vulnerabilidades de segurança em infraestrutura GCP
+Sólido conhecimento em Linux e ferramentas de linha de comando.
+
+
 
 <table align="center">
 <tr>
